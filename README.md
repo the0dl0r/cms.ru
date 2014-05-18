@@ -1,4 +1,0 @@
-cms
-===
-
-Content Manage System
